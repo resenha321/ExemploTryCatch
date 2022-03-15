@@ -10,5 +10,7 @@ package com.mycompany.exemplotrycatch;
  * @author devsys-a
  */
 public class ExmploTry {
-    
+    public static void main(String[] args) {
+        
+    }
 }
