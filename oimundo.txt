@@ -1,3 +1,0 @@
-Oi Mundo!
-Meu primeiro arquivo no git!!!
-Versão 1.0
